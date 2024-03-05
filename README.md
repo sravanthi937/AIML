@@ -13,3 +13,5 @@
 
 5.[Lab-05](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/Lab05.ipynb)
 
+
+6.[Lab-06](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/lab06.ipynb)
