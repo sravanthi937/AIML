@@ -23,6 +23,10 @@
 8.[Lab-08](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/Lab08.ipynb)
 
 
+9.[Lab-09](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/Lab09.ipynb)
+
+
+
 9.[AimlProject-Customer Feedback](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/customer_review.ipynb)
 
 
