@@ -27,6 +27,6 @@
 
 
 
-9.[AimlProject-Customer Feedback](https://github.com/sravanthi937/AIML_LAB_2024/blob/main/customer_review.ipynb)
+9.[AimlProject-Customer Feedback](
 
 
